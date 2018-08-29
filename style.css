@@ -14,7 +14,7 @@ body{
 }
 
 img {
- padding: 25px solid red;
+ padding: 25px;
  border: 25px solid black;
  margin: 50px;
 }
