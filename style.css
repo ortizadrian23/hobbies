@@ -13,3 +13,8 @@ body{
  background-color:powderblue;
 }
 
+img {
+ padding: 25px;
+ border: 25px solid green;
+ margin: 50px;
+}
