@@ -2,6 +2,7 @@ p {
  font-size:100%;
  font-family: verdana;
  color:red;
+ border: 50px solid black;
 }
 
 h1 {
